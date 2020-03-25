@@ -1,1 +1,0 @@
-otoole viz res C:\Users\Carla\Documents\SELECT\Thesis\1. Interface Development\1.2. Interface\03. Excel Interface\5. RES visualization\KTH-dESA-simplicity-1c9d5bb res.png && start res.png
